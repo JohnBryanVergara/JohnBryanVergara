@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @JohnBryanVergara
-- 📫 Contact: vergarajohnbryan@gmail.com
+- 📫 For any inquries contact me: vergarajohnbryan@gmail.com
 
 <!---
 JohnBryanVergara/JohnBryanVergara is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
